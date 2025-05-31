@@ -27,7 +27,7 @@ Whether you're a curious beginner, an aspiring cybersecurity analyst, or a lifel
 
 ```bash
 📁 articles/
-    📄 threat-hunting-101.md
+    📄 ELK-Stack-Setup-and-Configuration-Guide.md
 📁 blogs/
     📄 journey-to-cybersecurity.md
 📁 walkthroughs/
