@@ -29,7 +29,7 @@ Whether you're a curious beginner, an aspiring cybersecurity analyst, or a lifel
 📁 articles/
     📄 ELK-Stack-Setup-and-Configuration-Guide.md
 📁 blogs/
-    📄 journey-to-cybersecurity.md
+    📄 Behind-the-Code.md
 📁 walkthroughs/
     📄 tryhackme-volt-typhoon.md
 README.md

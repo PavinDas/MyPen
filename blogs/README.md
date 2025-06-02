@@ -12,3 +12,4 @@ The **Blogs** folder is home to my tech journey — the wins, the lessons, the m
 ## 🗂️ Structure
 Each blog post lives in a Markdown file named with its topic:
 
+1. [Behind the Code: My Journey to Becoming a Cybersecurity Expert](https://github.com/PavinDas/MyPen/blob/main/blogs/Behind-the-Code.md)
