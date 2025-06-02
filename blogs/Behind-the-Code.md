@@ -17,4 +17,4 @@ But throughout it all, I never forgot why I started this journey, to become a ha
 
 I began studying cybersecurity in a structured and ethical way, while continuing to strengthen my programming skills. I learned Python and started building my own security tools. Today, as a Cybersecurity Analyst, I use my skills not to exploit systems, but to protect them to **create a fearless digital environment for everyone.**
 
-Looking back, it all started with a movie character... but today, it’s my real-life mission.x
+Looking back, it all started with a movie character... but today, it’s my real life mission.
